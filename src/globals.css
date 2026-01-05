@@ -1,5 +1,5 @@
 :root {
-  --color-primary: rgb(65, 164, 245);
+  --color-primary: rgb(10, 31, 122);
   --color-secondary: #1f2937;
 
   /* Light mode colors */
@@ -11,7 +11,7 @@
   --color-bg-dark: #000000;
 
   --color-overlay: rgba(0, 0, 0, 0.7);
-  --color-rating: rgb(65, 164, 245);
+  --color-rating: rgb(10, 31, 122);
 }
 
 /* Text helpers */
